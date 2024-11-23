@@ -13,5 +13,12 @@ int main(){
     tinhHieu(a,b);
     tinhHieu(c,d);
     
+    printf("\n%d + %d = %d\n", a, b,tinhTong(a,b));
+    printf("\n%d + %d = %d\n", a, b,tinhTong(c,d));    
+    printf("\n%d + %d = %d\n", a, b,tinhHieu(a,b));
+    printf("\n%d + %d = %d\n", a, b,tinhHieu(c,d));
+
+    int TongChung = tinhtong(a,b) + tinhtong(c,d)
+
     return 0;
 }

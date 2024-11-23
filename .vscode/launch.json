@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Vu/Documents/FPT Polytechnic/COM108 - Basic Dev/ASS12",
-      "program": "c:/Users/Vu/Documents/FPT Polytechnic/COM108 - Basic Dev/ASS12/build/Debug/outDebug",
+      "cwd": "c:/Users/Vu/Documents/FPT Polytechnic/COM108 - Basic Dev/COM108_FPTPOLYTECHNIC/EXAMPLE",
+      "program": "c:/Users/Vu/Documents/FPT Polytechnic/COM108 - Basic Dev/COM108_FPTPOLYTECHNIC/EXAMPLE/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

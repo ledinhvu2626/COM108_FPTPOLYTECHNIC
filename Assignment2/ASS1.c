@@ -46,10 +46,12 @@ int main() {
                 break;
             case 3:
                 printf("Chuc nang tinh tien karaoke\n");
+                system("Karaoke.exe");
                 getchar();
                 break;
             case 4:
                 printf("Chuc nang tinh tien dien\n");
+                system("tiendien.exe");
                 getchar();
                 break;
             case 5:
