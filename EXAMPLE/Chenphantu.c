@@ -38,6 +38,16 @@ int main(){
     for(int i = 0;i<n;i++){
         printf("a[%d]= %d\n",i,a[i]);
     }    
- 
+    //doi gia tri cua 2 phan tu
+    printf("Nhap vi tri 2 phan tu muon doi: ");
+    int vt1, vt2;
+    scanf("%d%d",&vt1, &vt2);
+    int tam = a[vt1];
+    a[vt1]= a[vt2];
+    a[vt2]= tam;
+    printf("Mang sau khi doi gia tri: \n");
+    for(int i = 0;i<n;i++){
+        printf("a[%d]= %d\n",i,a[i]);
+    } 
     return 0;
 }
