@@ -56,6 +56,7 @@ int main() {
                 break;
             case 5:
                 printf("Chuc nang doi tien\n");
+                system("Doitien.exe");
                 getchar();
                 break;
             case 6:
